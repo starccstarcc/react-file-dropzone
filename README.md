@@ -58,7 +58,7 @@ npm run start
 
 
 5. Select a file and drop it on the drop zone. You can also delete the selected file.
-     (Dummy file for upload is here: [".txt",",csv",".jpg",".png"](https://github.com/ikezaworld/react-file-dragdrop/tree/main/dummy_file))
+     (Dummy file for upload is here: [".txt", ".csv", ".jpg", ".png"](https://github.com/ikezaworld/react-file-dragdrop/tree/main/dummy_file))
 
 
 ### Main Modules

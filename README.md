@@ -2,10 +2,10 @@
 
 <img src="docs/icon-file-dragdrop.png" width="100px" height="100px">
 
-This is a sample of a file drag-and-drop function, based on the "[react-dropzone](https://github.com/react-dropzone/react-dropzone){:target='_blank' rel='noopener'}" module. Workaround for 'react-dropzone' bug and deletion of selected files are added.
+This is a sample of a file drag-and-drop function, based on the "[react-dropzone](https://github.com/react-dropzone/react-dropzone)" module. Workaround for 'react-dropzone' bug and deletion of selected files are added.
 
 
-(JP)ファイルのドラッグ＆ドロップ機能のサンプルです。「[react-dropzone](https://github.com/react-dropzone/react-dropzone){:target='_blank' rel='noopener'}」モジュールをベースにしています。「react-dropzone」のバグのワークアラウンド対策や選択ファイルの削除も追加しています。
+(JP)ファイルのドラッグ＆ドロップ機能のサンプルです。「[react-dropzone](https://github.com/react-dropzone/react-dropzone)」モジュールをベースにしています。「react-dropzone」のバグのワークアラウンド対策や選択ファイルの削除も追加しています。
 
 <img src="docs/demo-file-dragdrop.gif" width="640px" height="480px">
 
@@ -41,7 +41,7 @@ There is a bug in "react-dropzone" that does not have the ability to delete sele
 ## Installation
 
 1. Download files from this github page. (or clone this repository)  
-   [https://github.com/ikezaworld/react-file-dragdrop](https://github.com/ikezaworld/react-file-dragdrop){:target='_blank' rel='noopener'}
+   [https://github.com/ikezaworld/react-file-dragdrop](https://github.com/ikezaworld/react-file-dragdrop)
 
 
 2. Install modules.
@@ -54,14 +54,14 @@ npm install
 npm run start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000){:target='_blank' rel='noopener'} to view it in the browser.
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 5. Select a file and drop it on the drop zone. You can also delete the selected file.
-     (Dummy file for upload is here: [".txt",",csv",".jpg",".png"](https://github.com/ikezaworld/react-file-dragdrop/tree/main/dummy_file){:target='_blank' rel='noopener'})
+     (Dummy file for upload is here: [".txt",",csv",".jpg",".png"](https://github.com/ikezaworld/react-file-dragdrop/tree/main/dummy_file))
 
 
 ### Main Modules
 
-- [create-react-app](https://github.com/facebook/create-react-app){:target='_blank' rel='noopener'}
-- [react-dropzone](https://github.com/react-dropzone/react-dropzone){:target='_blank' rel='noopener'}
+- [create-react-app](https://github.com/facebook/create-react-app)
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone)

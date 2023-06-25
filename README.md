@@ -1,9 +1,16 @@
 # react-file-dragdrop
+
+<img src="docs/icon-file-dragdrop.png" width="100" height="100">
+
 This is a sample of a file drag-and-drop function, based on the "[react-dropzone](https://github.com/react-dropzone/react-dropzone)" module. Workaround for 'react-dropzone' bug and deletion of selected files are added.
 
 
 ファイルのドラッグ＆ドロップ機能のサンプルで、「[react-dropzone](https://github.com/react-dropzone/react-dropzone)」モジュールをベースにしています。
 「react-dropzone」のバグのワークアラウンド対策や選択ファイルの削除を追加しています。
+
+<img src="docs/demo-file-dragdrop.gif" width="640" height="480" style="border: 1px solid #cccccc">
+
+
 
 ---
 
